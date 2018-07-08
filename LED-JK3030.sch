@@ -35,7 +35,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "WiLED JK3030 LED array"
-Date "2018-07-01"
+Date "2018-07-08"
 Rev "1.0"
 Comp "Sean Lanigan"
 Comment1 ""
